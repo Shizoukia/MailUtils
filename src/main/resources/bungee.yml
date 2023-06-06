@@ -1,0 +1,3 @@
+name: MailUtils
+version: '${project.version}'
+main: catmoe.shizoukia.MailUtils
