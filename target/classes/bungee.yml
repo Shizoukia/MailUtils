@@ -1,0 +1,5 @@
+name: MailUtils-API
+version: '1.0-SNAPSHOT'
+main: catmoe.shizoukia.MailUtils.MailUtilsLoader
+description: ❤ by CatMoe Studio
+author: Shizoukia

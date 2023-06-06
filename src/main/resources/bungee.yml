@@ -1,3 +1,5 @@
-name: MailUtils
+name: MailUtils-API
 version: '${project.version}'
-main: catmoe.shizoukia.MailUtils
+main: catmoe.shizoukia.MailUtilsLoader
+description: ❤ by CatMoe Studio
+author: Shizoukia
